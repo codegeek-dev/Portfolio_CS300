@@ -1,2 +1,12 @@
 # Portfolio_CS300
-Portfolio for CS-300
+The main problem being solved was the development of software to assist computer science advisors at ABC University in accessing course information for students. This involved tasks such as loading data from files, storing it in appropriate data structures like vectors, hash tables, or trees, and performing operations like searching, printing, and manipulating the data as needed.
+
+Approaching the problem involved understanding the requirements outlined by ABC University, designing appropriate algorithms and data structures to fulfill those requirements, and implementing the software solution using the chosen programming language. Understanding data structures was crucial in this process because they provide efficient ways to organize and access data, which is essential for tasks like searching, sorting, and storing information effectively.
+
+To overcome roadblocks encountered during activities or projects, I utilized problem-solving techniques such as breaking down complex problems into smaller, manageable tasks, seeking help from resources like documentation, tutorials, or peers, and debugging code systematically to identify and fix errors. Additionally, I leveraged my understanding of fundamental programming concepts and data structures to find creative solutions to challenges encountered.
+
+Working on this project has expanded my approach to designing software and developing programs by reinforcing the importance of planning and designing software architecture before jumping into implementation. It has taught me the significance of choosing appropriate data structures and algorithms based on the problem requirements and understanding how they impact program performance and efficiency.
+
+Furthermore, this project has evolved the way I write programs to be more maintainable, readable, and adaptable by emphasizing the importance of clean, modular, and well-commented code. It has encouraged me to follow best practices in software development, such as using meaningful variable names, writing clear and concise documentation, and adhering to coding standards and conventions, which ultimately leads to more maintainable and readable code. Additionally, it has instilled in me the value of writing code that is adaptable to future changes and enhancements, allowing for easier modification and extension of the software as requirements evolve over time.
+
+
